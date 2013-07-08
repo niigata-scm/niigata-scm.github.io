@@ -1,2 +1,6 @@
 name: Niigata.scm
 pygments: true
+markdown: redcarpet
+author:
+  name: dictav
+  email: dictav@gmail.com
