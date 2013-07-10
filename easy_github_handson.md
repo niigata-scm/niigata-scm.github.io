@@ -25,8 +25,8 @@ GitをすっとばしてSourceTreeを使ってGitHubのハンズオンをやり�
 * [「GitHubハンズオン」に行ってきました #nds32 logged by 高野 将 (TAKANO Sho) / @masaru_b_cl](http://takanosho.wordpress.com/2013/07/07/joined-nds32/)
 * [第32回NDSを運営してきた #nds32 (CIVIC SITE)](http://civic.xrea.jp/2013/07/08/nds32/)
 * [第32回勉強会(2013/07/06) Githubハンズオン　に行ってきました！ #nds32(step by step)](http://two-pack-sbs.blogspot.jp/2013/07/3220130706-github-nds32.html?spref=tw)
-* [ GitHubのハンズオンをやってきた (Dictav Site)](http://www.dictav.info/2013/07/07/EasyGitHubHandsOn.html)
-
+* [GitHubのハンズオンをやってきた (Dictav Site)](http://www.dictav.info/2013/07/07/EasyGitHubHandsOn.html)
+* [NDS32 GitHubハンズオンにいってきた (upinetree's tech blog)](http://upinetree.hatenablog.com/entry/2013/07/10/210843)
 
 
       
